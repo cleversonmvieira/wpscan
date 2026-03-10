@@ -1,5 +1,5 @@
 # wpscan
-Intslando WPSCAN no linux
+Instalando WPSCAN no linux
 
 1) Instalando dependências
 
